@@ -1,8 +1,8 @@
 # Applying to become a Student Ambassador
 
-In order to be considered for the role of a student ambassador you must fill out the application form available here: https://forms.gle/eodC8oSq5uZtaYYi6
+In order to be considered for the role of a student ambassador you must fill out the application form available here: https://forms.gle/SVGzZRv6cbySWxTz7. There are two rounds. Round 1 will close 20th June 2021 11:59 PM Pakistan Standard Time. Shortlisted round 1 applicants will be contacted 2 weeks after the deadline. Round 2 will begin on 21st June 2021 and end on 22nd August 2021. Applications will instead be considered on a rolling basis and shortlisted applicants will be contacted approximately 2 weeks after application submission. 
 
-The form will be reviewed by the ambassador program leads who will determine whether you will move to the next step of the process. If you are moved to the next step, you will then be contacted for an interview within two weeks of submitting your application. You will be informed of whether you were selected or not within a week of the interview.
+Shortlisted applicants will be selected through a review process by the program leads. Shortlisted applicants will be asked to select a slot for an interview when contacted. 
 
 As this is an organization representing women and underrepresented groups, we strongly prefer to have a representative from such a community in this position (unless there is a valid exception), hence we are only accepting Women with Pakistani background for this role.
 
@@ -15,9 +15,9 @@ As a PWiC Student Ambassador, you will help PWiC expand by creating a community 
 * Passionate about creating an impact in their community
 * Preferred experience organizing/leading events
 * Preferred outreach in university community and student societies
-* Is able to spend at least 5-7 hours per week on the community needs
+* Is able to spend at least 4-5 hours per week on the community needs
 * Enrolled in a Computer Science or a related degree and preferably at least two years left to graduation
-* Can commit to serve as an ambassador for one year and mentor for the upcoming year
+* Can commit to serve as an ambassador for one year and preferably mentor for the upcoming year
 
 ## Benefits of joining the program
 
